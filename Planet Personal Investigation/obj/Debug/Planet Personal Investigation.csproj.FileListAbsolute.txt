@@ -1,0 +1,12 @@
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\bin\Debug\Planet Personal Investigation.exe.config
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\bin\Debug\Planet Personal Investigation.exe
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\bin\Debug\Planet Personal Investigation.pdb
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\obj\Debug\Planet Personal Investigation.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\obj\Debug\Planet Personal Investigation.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\obj\Debug\Planet_Personal_Investigation.Properties.Resources.resources
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\obj\Debug\Planet Personal Investigation.csproj.GenerateResource.cache
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\obj\Debug\Planet Personal Investigation.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\obj\Debug\Planet Personal Investigation.exe
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\obj\Debug\Planet Personal Investigation.pdb
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\obj\Debug\Planet_Personal_Investigation.Main.resources
+C:\Users\willi\OneDrive - Tonbridge School\Programming\C#\Planet Personal Investigation\Planet Personal Investigation\obj\Debug\Planet_Personal_Investigation.Menu.resources

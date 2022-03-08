@@ -1,0 +1,15 @@
+mass=1000000
+positionX=0
+positionY=0
+velocityX=0
+velocityY=0
+radius=10
+centrePlanet=1
+#
+
+mass=1
+positionX=500
+positionY=150
+velocityX=-150
+velocityY=0
+radius=5
